@@ -1,7 +1,7 @@
 Info
 -----
 This is code used to communicate with NKK OLED switches.
-12 of these display switches where used for the artwork [Nineteen Eighty-Four](http://lozano-hemmer.com/artworks/nineteen_eighty-four.php)
+12 of these display switches were used for the artwork [Nineteen Eighty-Four](http://lozano-hemmer.com/artworks/nineteen_eighty-four.php)
 
 
 BOM
